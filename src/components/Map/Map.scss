@@ -1,0 +1,18 @@
+.mapContainersContainer {
+    position: relative;
+    background-color: #434242;
+    // padding-bottom: 20px;
+    .mapContainer {
+        scale: 0.3;
+        position: absolute;
+        left: -650px;
+        top: -650px;
+    }
+}
+
+.imagenFondo{
+    width: 100%;
+    height: 621px;
+    // opacity: 0.5;
+}
+
